@@ -10,4 +10,8 @@ p:hover {
    width: 250px;
    height:200px;
    transform:rotate(360deg);
+   border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 }
+
